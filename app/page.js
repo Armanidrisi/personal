@@ -17,11 +17,6 @@ const Buttons = [
     icon: RiTwitterLine,
     link: "https://twitter.com/Armanidrisi01",
   },
-
-  {
-    icon: RiEarthLine,
-    link: "https://github.com/Armanidrisi",
-  },
   {
     icon: RiYoutubeLine,
     link: "https://youtube.com/c/Armanidrisi1",
@@ -38,7 +33,7 @@ export default function Home() {
       <div className="flex justify-center flex-col items-center sm:items-start">
         <p className="text-blue-300 mb-2 flex items-center gap-1">
           <RiToolsLine />
-          Coder and Ethical Hacker
+          Programmer
         </p>
         <h1 className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-green-600">
           Arman Idrisi
