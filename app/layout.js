@@ -5,7 +5,7 @@ const poppins = Poppins({ weight: "400", subsets: ["latin"] });
 
 export const metadata = {
   title: "Arman Idrisi",
-  description: "Coder and hackerr",
+  description: "I Am A Coder",
 };
 
 export default function RootLayout({ children }) {
